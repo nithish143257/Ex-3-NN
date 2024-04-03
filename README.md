@@ -35,7 +35,7 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
     (v)  Append the losses in a list <BR>
 Step 4 : Test for the XOR patterns.
 
-##Program:
+<h3>Program:</h3>
 
 ```
 import numpy as np
@@ -103,7 +103,7 @@ predict(w1,w2,test)
 
 ```
 
-##Output:
+<h3>Output:</h3>
 
 ![alt text](image.png)
 
